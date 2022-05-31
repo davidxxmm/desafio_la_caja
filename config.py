@@ -1,0 +1,6 @@
+dataset_customers = "customers.csv"
+dataset_payments = "payments.csv"
+dataset_customers_sum = "customers_sumarizados.csv"
+dataset_clientes_resultado = "customers_con_descuentos.csv"
+fecha_periodo  = "2021-11-30" 
+step2 = "step2.py"
